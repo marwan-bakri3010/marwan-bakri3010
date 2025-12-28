@@ -47,6 +47,7 @@ I value:
 </p>
 
 - Java (Spring Boot, Spring Security)
+- JS/TS (NestJs)
 - JPA / Hibernate
 - RESTful APIs
 - JWT Authentication & Authorization
