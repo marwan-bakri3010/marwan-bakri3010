@@ -2,10 +2,10 @@
 <h3 align="center">Java Full-Stack Engineer | Android Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/marwan-bakri-555a45188/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=flat&logo=linkedin"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:marwanbakri3010@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
