@@ -68,7 +68,7 @@ I value:
 
 ### Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=android,kotlin,firebase&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,firebase&theme=light"/>
 </p>
 
 - Native Android (Java & Kotlin)
